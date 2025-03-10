@@ -2,7 +2,7 @@ import { connect } from "cloudflare:sockets";
 
 // Variables
 const rootDomain = "prastiyo.my.id"; // Ganti dengan domain utama kalian
-const serviceName = "Nautica"; // Ganti dengan nama workers kalian
+const serviceName = "nautica"; // Ganti dengan nama workers kalian
 const apiKey = "a61694ba501fc04087e3935f68a894969f0f6"; // Ganti dengan Global API key kalian (https://dash.cloudflare.com/profile/api-tokens)
 const apiEmail = "alidwiprasetyo05@gmail.com"; // Ganti dengan email yang kalian gunakan
 const accountID = "19ec479649d1fb6416837abea85bbd02"; // Ganti dengan Account ID kalian (https://dash.cloudflare.com -> Klik domain yang kalian gunakan)
